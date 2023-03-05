@@ -3,16 +3,19 @@
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "start": "set EXPO_PACKAGER_PROXY_URL=http://9885-216-131-24-64.ngrok.io && expo start",
+    "start": "set EXPO_PACKAGER_PROXY_URL=http://a3c6-2607-fb90-d50a-cd99-382c-2b6-89b7-844d.ngrok.io && expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "expo": "~48.0.4",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.3"
+    "react-bootstrap": "^2.7.2",
+    "react-native": "0.71.3",
+    "react-native-bootstrap": "^0.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
