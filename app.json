@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/heart-hands.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#a0d2eb"
     },
     "assetBundlePatterns": [
       "**/*"
